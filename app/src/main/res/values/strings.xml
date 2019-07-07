@@ -22,7 +22,7 @@ This volume starts with the first new Beatle song, “Free as a Bird” (based o
 <b><i>Leave My Kitten Alone</i></b> — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 R&amp;B hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker.
 \n\n
 <b><i>One After 909</i></b> — A song recorded for the <i>Let It Be</i> album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R&amp;B feel to it.
-</string>
+    </string>
     <string name="title_activity_main">MainActivity</string>
     <string name="button_main">Send</string>
     <string name="text_header">Message Received</string>
@@ -36,4 +36,25 @@ This volume starts with the first new Beatle song, “Free as a Bird” (based o
     <string name="button_loc">Open Location</string>
     <string name="edittext_share">\'Twas brillig and the slithy toves</string>
     <string name="button_share">Share This Text</string>
+
+    <!-- Hint for first operand EditText -->
+    <string name="type_operand_one_hint">Type Operand 1</string>
+
+    <!-- Hint for second operand EditText -->
+    <string name="type_operand_two_hint">Type Operand 2</string>
+
+    <!-- Button label for add operation -->
+    <string name="add_operation_text">Add</string>
+
+    <!-- Button label for subtract operation -->
+    <string name="sub_operation_text">Sub</string>
+
+    <!-- Button label for divide operation -->
+    <string name="div_operation_text">Div</string>
+
+    <!-- Button label for mul operation -->
+    <string name="mul_operation_text">Mul</string>
+
+    <!-- Message for textview in case of errors  -->
+    <string name="computationError">Error</string>
 </resources>
